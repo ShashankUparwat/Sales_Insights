@@ -1,7 +1,9 @@
 # Sales_Insights
 
-Analyse the sales dataset of a hardware company and visualise in PowerBI.
+Analyse the sales dataset of a hardware company using SQL and visualise in PowerBI.
 
+MySQL
+PowerBI
 
 #### Show all Customers
 ```SQL
